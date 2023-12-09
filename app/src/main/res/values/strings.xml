@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WakeOnLan</string>
+    <string name="ip_address">IP Address</string>
+    <string name="mac_address">MAC Address</string>
+    <string name="wake">WAKE</string>
+    <string name="ip">IP</string>
+</resources>
